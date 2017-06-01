@@ -1,0 +1,14 @@
+C:\Projects\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\DoctorWebWCFServicio.dll.config
+C:\Projects\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\DoctorWebWCFServicio.dll
+C:\Projects\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\DoctorWebWCFServicio.pdb
+C:\Projects\ProyectoDoctorWeb\DoctorWebWCFServicio\obj\Debug\DoctorWebWCFServicio.csprojResolveAssemblyReference.cache
+C:\Projects\ProyectoDoctorWeb\DoctorWebWCFServicio\obj\Debug\DoctorWebWCFServicio.dll
+C:\Projects\ProyectoDoctorWeb\DoctorWebWCFServicio\obj\Debug\DoctorWebWCFServicio.pdb
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\obj\Debug\DoctorWebWCFServicio.csprojResolveAssemblyReference.cache
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\obj\Debug\DoctorWebWCFServicio.dll
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\obj\Debug\DoctorWebWCFServicio.pdb
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\DoctorWebWCFServicio.dll.config
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\DoctorWebWCFServicio.dll
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\DoctorWebWCFServicio.pdb
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\MySql.Data.dll
+C:\Projects\Development\ProyectoDoctorWeb\DoctorWebWCFServicio\bin\EASendMail45.dll
