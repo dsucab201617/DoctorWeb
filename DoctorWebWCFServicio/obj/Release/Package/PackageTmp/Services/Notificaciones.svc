@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="DoctorWebWCFServicio.Services.Notificaciones" CodeBehind="Notificaciones.svc.cs" %>
